@@ -1,0 +1,106 @@
+{
+  "users": {
+    "62878183116780@s.whatsapp.net": {
+      "exp": 122,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "Bot Miniwon",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false
+    },
+    "6285641463294@s.whatsapp.net": {
+      "exp": 248,
+      "diamond": 10,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "S E G A W O N",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "warn": 0,
+      "level": 0,
+      "role": "Novato",
+      "autolevelup": false,
+      "chatbot": false
+    }
+  },
+  "chats": {
+    "62878183116780@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "6285641463294@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    },
+    "120363147960844291@g.us": {
+      "isBanned": false,
+      "welcome": false,
+      "detect": false,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "useDocument": true,
+      "onlyLatinos": false,
+      "nsfw": false,
+      "expired": 0
+    }
+  },
+  "stats": {
+    "main-menu.js": {
+      "total": 37,
+      "success": 26,
+      "last": 1697378672506,
+      "lastSuccess": 1697378672506
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "62878183116780@s.whatsapp.net": {
+      "self": false,
+      "autoread": false,
+      "restrict": false,
+      "status": 1697378658205
+    }
+  }
+}
